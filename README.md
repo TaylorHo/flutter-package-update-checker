@@ -46,6 +46,7 @@ project
         └── dependency_checker.yml
 ```
 
+&nbsp;
 ### Second Step:
 
 You'll need to create a [PAT (Personal Access Token)](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). To do this, follow the GitHub official tutorial, remembering thoose things:
@@ -54,6 +55,7 @@ You'll need to create a [PAT (Personal Access Token)](https://docs.github.com/en
 2. The token name can be anything you want
 3. Save the generated token in a safe place, you'll need it later
 
+&nbsp;
 ### Third Step:
 
 First, go to your Project/Repository settings, into *"Security" area*, select the *"Actions"* item.
@@ -66,6 +68,8 @@ Then, click in *"New Repository Secret"* button in top of the page.
 
 The name of the secret must be **"ACCESS_TOKEN"** (without quotation marks) and his value must be the generated PAT (created in [step 2](#second-step)).
 
+&nbsp;
+&nbsp;
 ### You're done!
 
 ---
