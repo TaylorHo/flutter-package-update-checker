@@ -56,8 +56,14 @@ You'll need to create a [PAT (Personal Access Token)](https://docs.github.com/en
 
 ### Third Step:
 
-First, go to your ![Project/Repository settings](/images/settings.png "Repository Settings"), into *"Security" area*, select the *"Actions"* item.
+First, go to your Project/Repository settings, into *"Security" area*, select the *"Actions"* item.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TaylorHo/flutter-package-update-checker/main/images/settings.png" alt="Repository Settings">
+</p>
+
 Then, click in *"New Repository Secret"* button in top of the page.
+
 The name of the secret must be **"ACCESS_TOKEN"** (without quotation marks) and his value must be the generated PAT (created in [step 2](#second-step)).
 
 ### You're done!
@@ -67,6 +73,7 @@ The name of the secret must be **"ACCESS_TOKEN"** (without quotation marks) and 
 # Notes:
 
 The action will be executed once a day, at 12:00 AM UTC 🕒
+
 You can update this value as you need, changing the schedule cron in the [dependency_checker.yml](https://github.com/TaylorHo/flutter-package-update-checker/blob/main/dependency_checker.yml) file.
 
 To do this, you need to change the *"cron"* value in this part of the script. You can use the [Cronitor Crontab](https://crontab.guru/) to create a custom schedule, as needed by you.
