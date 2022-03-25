@@ -21,9 +21,9 @@
 </p>
 
 &nbsp;
-&nbsp;
 
 ---
+&nbsp;
 # About
 
 The file [dependency_checker.yml](https://github.com/TaylorHo/flutter-package-update-checker/blob/main/dependency_checker.yml) defines an [GitHub Action](https://github.com/features/actions) to **verify if there's package updates into your Flutter Project**.
