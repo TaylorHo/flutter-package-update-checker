@@ -49,7 +49,7 @@ project
 &nbsp;
 ### Second Step:
 
-You'll need to create a [PAT (Personal Access Token)](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). To do this, follow the GitHub official tutorial, remembering thoose things:
+You'll need to create a [PAT (Personal Access Token)](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). To do this, follow the [GitHub official tutorial](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token), remembering thoose things:
 
 1. Give Read/Write access to the token when creating
 2. The token name can be anything you want
