@@ -31,7 +31,7 @@ If there's a package out-of-date, the action will create a **Pull Request** upda
 
 A dependency tree up-to-date is a best practice for security issues 😌
 
-
+&nbsp;
 # Installing
 
 ### First Step:
