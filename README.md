@@ -39,8 +39,7 @@ Place the [dependency_checker.yml](https://github.com/TaylorHo/flutter-package-u
 The structure will look like this:
 
 ```
-project
-|
+project folder
 └── .github
     └── workflows
         └── dependency_checker.yml
