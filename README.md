@@ -8,8 +8,6 @@
 
 <img src="https://img.shields.io/github/stars/TaylorHo/flutter-package-update-checker.svg?style=flat">
 
-<img src="https://img.shields.io/github/languages/top/TaylorHo/flutter-package-update-checker.svg">
-
 <img src="https://img.shields.io/github/issues/TaylorHo/flutter-package-update-checker.svg">
 
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
